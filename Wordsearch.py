@@ -18,7 +18,7 @@ def findtext(dir, phrase):
     
 # Directory and search phrase user Input 
 dir_path = input("Enter a Directory :")
-search_phrase = input("Enter a Search_Phrase: ")
+search_phrase = input("Enter a Search_Word: ")
 
 #Function call
 findtext(dir_path, search_phrase)
