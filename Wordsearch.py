@@ -15,6 +15,7 @@ def findtext(dir, phrase):
                         print(f"'{phrase}' found in '{file_name}' ||-->\t File Path :'{path}'\n")     
             except Exception as e:
                 print(f"Error reading file '{path}': {e}")
+print("Welcome...You're about to work for a Miral Project")
 print("Quick Tip :- \n🔴 Miral Asset Management LLC name has been changed to MIRAL LLC \n🔴 FARAH Experiences LLC name has been changed to MIRAL Experiences LLC \n🔴 Experiences Hub LLC name has been changed to MIRAL Destinations LLC")
 print("++++++++++++++++++++++++++++++++++++++++++++++++")
 print("You Can Assign upto 3 Directories at a same time")
