@@ -34,3 +34,5 @@ with open('C:/Users/3iintr00203/Desktop/integrations list/completed.csv') as fil
     writer.writerow(['Unique strings in file 2'])
     writer.writerow(list(file2_set - file1_set))
 '''
+
+#by user_1409 😊
