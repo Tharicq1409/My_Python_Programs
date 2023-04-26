@@ -22,3 +22,8 @@ search_phrase = input("Enter search phrase: ")
 
 #Function call
 findtext(dir_path, search_phrase)
+
+
+
+
+#by user_1409 😊
