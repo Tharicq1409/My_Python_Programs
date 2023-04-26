@@ -17,8 +17,8 @@ def findtext(dir, phrase):
                 print(f"Error reading file '{path}': {e}")
     
 # Directory and search phrase user Input 
-dir_path = input("Enter Directory:")
-search_phrase = input("Enter search phrase: ")
+dir_path = input("Enter a Directory :")
+search_phrase = input("Enter a Search_Phrase: ")
 
 #Function call
 findtext(dir_path, search_phrase)
